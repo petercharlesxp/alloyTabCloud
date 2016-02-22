@@ -1,0 +1,14 @@
+<Alloy>
+	<TableViewRow id="row" comment_id="">
+		<View class="container">
+			<ImageView id="avatar"></ImageView>
+			<View class="textContainer">
+				<View class="userInfo" layout="horizontal">
+					<Label id="userName"></Label>
+					<Label id="date"></Label>
+				</View>
+				<Label id="comment"></Label>
+			</View>
+		</View>
+	</TableViewRow>
+</Alloy>
